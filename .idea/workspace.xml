@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a003a61-ee7b-4269-9609-0e8e40e76b0a" name="Changes" comment="StringAnagrams" />
+    <list default="true" id="7a003a61-ee7b-4269-9609-0e8e40e76b0a" name="Changes" comment="xml">
+      <change afterPath="$PROJECT_DIR$/src/Dulicatearray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefixusingSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindromeapproch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReversewordsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RomantoINT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TopTen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mindistacneinwords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roatingthestringby2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testmd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LargerstElementArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LargerstElementArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,9 +66,12 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2c2mUKc8M5OSoEK5BIVRhPrQCnd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -64,14 +82,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Dulicatearray.executor": "Run",
     "Application.FactorialCalcution.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
     "Application.LargerstElementArr$LargerstElement.executor": "Run",
     "Application.LargerstElementArr.executor": "Run",
+    "Application.LongestCommonPrefixusingSorting.executor": "Run",
     "Application.Paindrone.executor": "Run",
+    "Application.Palindrome.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.ReversewordsString.executor": "Run",
+    "Application.RomantoINT.executor": "Run",
     "Application.StringAnagrams.executor": "Run",
+    "Application.TopTen.executor": "Run",
+    "Application.testmd.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "QuestionSDET",
@@ -81,9 +106,37 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="LargerstElementArr$LargerstElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargerstElementArr$LargerstElement" />
+  <component name="RunManager" selected="Application.roatingthestringby2">
+    <configuration name="LongestCommonPrefixusingSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefixusingSorting" />
+      <module name="QuestionSDET" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+      <module name="QuestionSDET" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversewordsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReversewordsString" />
+      <module name="QuestionSDET" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomantoINT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RomantoINT" />
+      <module name="QuestionSDET" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roatingthestringby2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="roatingthestringby2" />
       <module name="QuestionSDET" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,7 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargerstElementArr$LargerstElement" />
+        <item itemvalue="Application.roatingthestringby2" />
+        <item itemvalue="Application.RomantoINT" />
+        <item itemvalue="Application.LongestCommonPrefixusingSorting" />
+        <item itemvalue="Application.ReversewordsString" />
+        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -136,13 +193,22 @@
       <option name="project" value="LOCAL" />
       <updated>1707320406147</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="xml">
+      <option name="closed" value="true" />
+      <created>1707320441668</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707320441668</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new code" />
     <MESSAGE value="StringAnagrams" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringAnagrams" />
+    <MESSAGE value="xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

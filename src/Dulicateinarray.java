@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Dulicatearray {
+public class Dulicateinarray {
 
 
         public static void main(String[] args) {

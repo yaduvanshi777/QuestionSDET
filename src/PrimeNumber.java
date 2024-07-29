@@ -1,4 +1,5 @@
 public class PrimeNumber {
+    int count=0;
 
     public static boolean isPrime(int n) {
         if (n <= 1) {
@@ -9,12 +10,15 @@ public class PrimeNumber {
                 return false;
             }
         }
+
         return true;
+
     }
     public static void main(String[] args) {
         int n = 100;
         for (int i = 2; i <= n; i++) {
             if (isPrime(i)) {
+
                 System.out.println(i);
             }
         }

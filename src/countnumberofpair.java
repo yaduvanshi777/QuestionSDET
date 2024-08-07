@@ -1,5 +1,3 @@
-package sorting;
-
 public class countnumberofpair  {
 
     //To determine the number of pairs in the array {1, 1, 2, 3, 2, -1, -3, 4, 4, -3, 4, 4}, we'll consider pairs of elements that are the same.

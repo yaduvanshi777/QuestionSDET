@@ -5,34 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a003a61-ee7b-4269-9609-0e8e40e76b0a" name="Changes" comment="new code push">
-      <change afterPath="$PROJECT_DIR$/src/Arrayinthreecase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Averageprime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterOcurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Commonelementarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Digitreverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxandMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MostRepetitiveConsonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseStringWithoutSpecialChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Starpattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sumofdigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseStringwithspecial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseandpainldrone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reversearrya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondsmallandlarge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/countnumberofpair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortthe01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortwithxero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindEqualSumPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removereducancystring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dulicatearray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dulicateinarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverseStringwithspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseStringwithspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reversearrya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reversearrya.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +86,7 @@
     "Application.Dulicateinarray.executor": "Run",
     "Application.FactorialCalcution.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
+    "Application.FindEqualSumPairs.executor": "Run",
     "Application.LargerstElementArr$LargerstElement.executor": "Run",
     "Application.LargerstElementArr.executor": "Run",
     "Application.LongestCommonPrefixusingSorting.executor": "Run",
@@ -132,6 +113,9 @@
     "Application.countnumber.executor": "Run",
     "Application.countnumberofpair.executor": "Run",
     "Application.mergesort.executor": "Run",
+    "Application.mindistacneinwords.executor": "Run",
+    "Application.reducancystring.executor": "Run",
+    "Application.removereducancystring.executor": "Run",
     "Application.reverseSring.executor": "Run",
     "Application.reverseStringwithspecial.executor": "Run",
     "Application.reverseandpainldrone.executor": "Run",
@@ -144,6 +128,7 @@
     "Application.testmd.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "QuestionSDET",
     "onboarding.tips.debug.path": "/Users/vivekyaduvanshi/Documents/Questions/QuestionSDET/src/Main.java",
     "project.structure.last.edited": "Modules",
@@ -152,36 +137,16 @@
   }
 }]]></component>
   <component name="RunManager" selected="Application.countnumberofpair">
-    <configuration name="Digitreverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Digitreverse" />
+    <configuration name="FindEqualSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindEqualSumPairs" />
       <module name="QuestionSDET" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversewordsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReversewordsString" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
       <module name="QuestionSDET" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sumofdigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sumofdigit" />
-      <module name="QuestionSDET" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="countnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.countnumber" />
-      <module name="QuestionSDET" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -191,7 +156,7 @@
       <module name="QuestionSDET" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,13 +164,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reducancystring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reducancystring" />
+      <module name="QuestionSDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removereducancystring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removereducancystring" />
+      <module name="QuestionSDET" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.countnumberofpair" />
-        <item itemvalue="Application.countnumber" />
-        <item itemvalue="Application.ReversewordsString" />
-        <item itemvalue="Application.Sumofdigit" />
-        <item itemvalue="Application.Digitreverse" />
+        <item itemvalue="Application.FindEqualSumPairs" />
+        <item itemvalue="Application.removereducancystring" />
+        <item itemvalue="Application.reducancystring" />
+        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712138208466</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new code push">
+      <option name="closed" value="true" />
+      <created>1722230242926</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722230242926</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

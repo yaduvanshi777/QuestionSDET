@@ -1,7 +1,7 @@
 import java.util.*;
 public class reversearrya {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4, 5};
+        int[] arr = {1, 2, 9, 4, 5};
         reversearr(arr);
         System.out.println(Arrays.toString(arr));
     }
